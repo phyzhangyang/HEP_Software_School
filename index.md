@@ -7,6 +7,13 @@
 4月x日--4月y日
 
 ### 课程安排
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 |  | 上午 | 下午 |
 |-------|--------|---------|
 | 星期三 |  | 报到 |
