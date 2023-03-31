@@ -7,16 +7,10 @@
 4月x日--4月y日
 
 ### 课程安排
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-|  | 上午 | 下午 |
+|       | 上午    | 下午     |
 |-------|--------|---------|
-| 星期三 |  | 报到 |
+| 星期三 |       | 报到 |
 | 星期四 | 模型扫描（EasyScan_HEP，GAMBIT） | 上机练习 |
 | 星期五 | 对撞机物理（ColliderBit，MadAnalysis） | 上机练习 |
 | 星期六 | 电弱相变（PhaseTracer） | 上机练习 |
