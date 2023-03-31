@@ -13,7 +13,7 @@
 | 星期四 | 模型扫描（EasyScan_HEP，GAMBIT） | 上机练习 |
 | 星期五 | 对撞机物理（ColliderBit，MadAnalysis） | 上机练习 |
 | 星期六 | 电弱相变（PhaseTracer） | 上机练习 |
-| 星期日 | 机器学习 | 上机练习 |
+| 星期日 | 机器学习 |  |
 
 ### 准备工作
 安装Linux、Mac或虚拟机
